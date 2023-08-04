@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 -Desktop at 1280px  ![](./screenshot/screenshot-desktop.png)
--Mobile at 375px ![](./screenshot/screenshot-mobile.png)
 
 ### Links
 
