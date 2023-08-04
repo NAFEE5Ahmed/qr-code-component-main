@@ -13,8 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://github.com/NAFEE5Ahmed/qr-code-component-main)
-- Live Site URL: [](https://nafee5ahmed.github.io/qr-code-component-main/)
+- Solution URL: [https://github.com/NAFEE5Ahmed/qr-code-component-main](https://github.com/NAFEE5Ahmed/qr-code-component-main)
+- Live Site URL: [https://nafee5ahmed.github.io/qr-code-component-main/](https://nafee5ahmed.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Nafees Ahmed](https://www.your-site.com)
+- Website - [Nafees Ahmed]()
 - Frontend Mentor - [@NAFEE5Ahmed](https://www.frontendmentor.io/profile/NAFEE5Ahmed)
 - Twitter - [@NafeesAhmed__](https://twitter.com/NafeesAhmed__)
 
