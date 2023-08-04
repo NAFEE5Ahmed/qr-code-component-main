@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-Desktop at 1280px  ![](./screenshot/screenshot-desktop.png)
-Mobile at 375px ![](./screenshot/screenshot-mobile.png)
+-Desktop at 1280px  ![](./screenshot/screenshot-desktop.png)
+-Mobile at 375px ![](./screenshot/screenshot-mobile.png)
 
 ### Links
 
@@ -38,7 +38,7 @@ Mobile at 375px ![](./screenshot/screenshot-mobile.png)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/NAFEE5Ahmed)
-- Twitter - [@yourusername](https://twitter.com/NafeesAhmed__)
+- Website - [Nafees Ahmed](https://www.your-site.com)
+- Frontend Mentor - [@NAFEE5Ahmed](https://www.frontendmentor.io/profile/NAFEE5Ahmed)
+- Twitter - [@NafeesAhmed__](https://twitter.com/NafeesAhmed__)
 
